@@ -1,6 +1,6 @@
 # MediChat
 MediChat is an advanced medical chatbot designed to assist with clinical queries and provide information based on medical literature. It leverages state-of-the-art models and embeddings to deliver accurate and reliable responses.
-
+### [Demo for MediChat](https://drive.google.com/file/d/1Z2c27T0WiH8-AycAJbTcVged6y0ng6rG/view?usp=drive_link)
 ## Features
 ### Medical Expertise: 
 Provides information based on extensive training on medical literature.
